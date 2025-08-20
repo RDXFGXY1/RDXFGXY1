@@ -1,6 +1,5 @@
-# 💫 About Me:
-# 👋 Welcome<br><br>Just a dev who builds real stuff.<br><br>## / About Me<br>- Full-stack dev focused on Discord bots, automation, and game development.<br>- Founder of **NullStudio** — I build tools that solve real problems.<br>- Obsessed with clean logic, smart architecture, and building from scratch.<br><br>## / Skills<br>- **Languages**: Python, JavaScript, C#<br>- **Tech**: Discord API, Webhooks, JSON systems, Web UI integrations<br>- **Tools**: Git, Linux, Figma, Firebase<br><br>## / Projects<br>- **NullTracker** – Advanced moderation & anti-link bot for Discord<br>- **Logging Bot** – Full server activity logger<br>- **Omen (Game)** – Narrative-driven game with a strong message<br>- **Discord Tickets System** – Custom panels, claim/open/close logic, and database handling<br><br>## / NullStudio<br>I run [NullStudio](https://nullstudio.gumroad.com) — building premium systems for Discord communities.  <br>> Tools that go beyond templates.  <br>> Real code. Real logic.<br><br>## / Contact<br>Want to collab or work together?  <br>Reach out on Discord: https://discord.com/invite/aFvUxKejw4<br>Email me : nullstudio.dev@proton.me<br><br>No hype. No noise.  <br>Just code that works.<br>
 
+# 👋 Welcome Im RDXFGXY1 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aFvUxKejw4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nullstudio.dev@proton.me) 
