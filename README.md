@@ -1,4 +1,4 @@
-# 👨‍💻 ┌──(github㉿RDXFXG1)-[~/PROFILE]
+# ┌──(github㉿RDXFXG1)-[~/PROFILE]
 
 ```sh
 $ ./RDXFGXY1 --role="Cybernetic Developer"
