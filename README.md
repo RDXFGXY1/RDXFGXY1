@@ -18,6 +18,7 @@ $ ./RDXFGXY1 --role="Cybernetic Developer"
 - <span style="color: #00FF41;">[EXPERIENCE]</span> Multi-language proficiency with focus on security
 - <span style="color: #00FF41;">[STATUS]</span> Currently accepting collaboration requests
 - <span style="color: #00FF41;">[SECURITY]</span> End-to-end encryption enthusiast
+- <span style="color: #00FF41;">[POKIE]</span> Gits :) [HERE](https://gist.github.com/RDXFGXY1)
 
 ---
 
