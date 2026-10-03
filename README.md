@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/rdxfgxy1-hud.svg" width="100%" alt="RDXFGXY1 — full-stack developer HUD banner" />
+<img src="./assets/rdxfgxy1-hud-v2.png" width="100%" alt="RDXFGXY1 — full-stack developer and security researcher" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=2800&pause=1000&color=D9A441&center=true&vCenter=true&width=700&height=30&lines=SECURITY+FIRST+%2F%2F+PRODUCT+MINDED+%2F%2F+ALWAYS+BUILDING;WEB+%2F%2F+AI+%2F%2F+AUTOMATION+%2F%2F+GAMES" alt="Current focus" />
+<samp>SECURITY FIRST　◆　PRODUCT MINDED　◆　ALWAYS BUILDING</samp>
 
 </div>
 
@@ -97,7 +97,7 @@ I build next-generation web applications, browser tools, AI integrations, automa
 
 ### `[ 02-A ]` Projects
 
-#### [NYX](https://github.com/RDXFGXY1/nyx)
+#### ◈ [NYX](https://github.com/RDXFGXY1/nyx)
 
 Local-first new-tab replacement for Brave and Chrome, with bookmarks, translation, local media, customization, and privacy-focused utilities.
 
@@ -105,7 +105,7 @@ Local-first new-tab replacement for Brave and Chrome, with bookmarks, translatio
 
 [![Open Nyx](https://img.shields.io/badge/OPEN_REPOSITORY-NYX-d9a441?style=for-the-badge&logo=github&logoColor=111611&labelColor=202a20)](https://github.com/RDXFGXY1/nyx)
 
-#### [ORION HOME SERVICES AI](https://github.com/RDXFGXY1/OrionHomeServices-AI)
+#### ◈ [ORION HOME SERVICES AI](https://github.com/RDXFGXY1/OrionHomeServices-AI)
 
 AI-assisted home-services platform with multimodal diagnostics, intelligent workflows, contractor coordination, and structured service management.
 
