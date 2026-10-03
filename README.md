@@ -1,149 +1,168 @@
-# YOOOOOOO 
+<!-- RDXFGXY1 profile README — intentionally organized as two dashboard panels. -->
 
-```sh
-$ ./RDXFGXY1 --role="Cybernetic Developer"
-```
-<h3 align="center" style="color: #00FF41;">[STATUS: ACTIVE] [MODE: DEVELOPMENT] [SECURITY: ENHANCED]</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=[SYSTEM]+Initializing+RDXFGXY1+Profile;[SECURITY]+Authentication+Required;[NETWORK]+Establishing+Secure+Connection;[STATUS]+Operational+%26+Active" alt="Terminal Typing" />
-</p>
+<img src="./assets/rdxfgxy1-hud.svg" width="100%" alt="RDXFGXY1 — full-stack developer HUD banner" />
 
----
+<br />
 
-## <span style="color: #00FF41;">[INFO]</span> SYSTEM PROFILE
+[![GitHub](https://img.shields.io/badge/GITHUB-rdxfgxy1-202a20?style=for-the-badge&logo=github&logoColor=e8e6df&labelColor=111611)](https://github.com/RDXFGXY1)
+[![Profile views](https://komarev.com/ghpvc/?username=rdxfgxy1&style=for-the-badge&color=d9a441&label=PROFILE+VIEWS)](https://github.com/RDXFGXY1)
+[![Followers](https://img.shields.io/github/followers/rdxfgxy1?style=for-the-badge&color=66735f&labelColor=111611&logo=github)](https://github.com/RDXFGXY1?tab=followers)
 
-- <span style="color: #00FF41;">[IDENTITY]</span> Full-Stack Developer & Security Researcher
-- <span style="color: #00FF41;">[SPECIALIZATION]</span> Secure Application Development
-- <span style="color: #00FF41;">[EXPERIENCE]</span> Multi-language proficiency with focus on security
-- <span style="color: #00FF41;">[STATUS]</span> Currently accepting collaboration requests
-- <span style="color: #00FF41;">[SECURITY]</span> End-to-end encryption enthusiast
-- <span style="color: #00FF41;">[POKIE]</span> Gits :) [HERE](https://gist.github.com/RDXFGXY1)
+<br /><br />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=2800&pause=1000&color=D9A441&center=true&vCenter=true&width=700&height=30&lines=SECURITY+FIRST+%2F%2F+PRODUCT+MINDED+%2F%2F+ALWAYS+BUILDING;WEB+%2F%2F+AI+%2F%2F+AUTOMATION+%2F%2F+GAMES" alt="Current focus" />
 
-## <span style="color: #FF6B00;">[TECH]</span> CORE STACK
+</div>
 
-```diff
-+ [LANGUAGES]
-# C# | Python | JavaScript | Lua | HTML/CSS
+## ◢ DASHBOARD 01 // PROFILE MATRIX ◣
 
-+ [FRAMEWORKS]
-# .NET | NextJS | Node.js | Firebase
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66735f,50:d9a441,100:66735f" width="100%" alt="Dashboard divider" />
 
-+ [DATABASES]
-# MySQL | SQLite | Pandas
+<table>
+<tr>
+<td width="51%" valign="top">
 
-+ [PLATFORMS]
-# AWS | Netlify | Vercel
+### `[ 01-A ]` About Me
 
-+ [TOOLS]
-# Git | NPM | Security Testing Suites
+```yaml
+identity:   Full-stack developer & security researcher
+focus:      Secure application development
+status:     Open to collaboration
+principles: Security / Privacy / UX / Clean design
 ```
 
----
+I build next-generation web applications, browser tools, AI integrations, automation, bots, and immersive game experiences. I enjoy working across languages and turning ambitious ideas into useful, polished software.
 
-## <span style="color: #FF00FF;">[PROJECT]</span> ACTIVE DEVELOPMENTS
+> **DESIGN PRINCIPLE**  
+> “Code isn't just instructions for machines—it's poetry for problem-solving. Every line should either solve a problem or inspire a solution.”
 
-```js
-$ +[PROJECT: NULLSTUDIO]
-  - Next-gen development platform
-  - Status: [ACTIVE DEVELOPMENT]
-  - Security: [ENHANCED PROTOCOLS]
+### `[ LINK ]` Connect
 
-$ [PROJECT: GAMEMOD X]
-  - Advanced game modification suite
-  - Status: [IN PRODUCTION]
-  - Specialization: Lua scripting engine
+[![Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/aFvUxKejw4)
+[![Email](https://img.shields.io/badge/Email-Contact-d9a441?style=flat-square&logo=protonmail&logoColor=111611)](mailto:nullstudio.dev@proton.me)
+[![Gists](https://img.shields.io/badge/Gists-Explore-66735f?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/RDXFGXY1)
 
-$ [PROJECT: SECURENET]
-  - Cybersecurity toolkit
-  - Status: [EARLY ACCESS]
-  - Target: Developers & small businesses
+</td>
+<td width="49%" valign="top">
 
-$ [PROJECT: AI COMPANION]
-  - Personalized AI assistant
-  - Status: [RESEARCH PHASE]
-  - Focus: Learning capabilities
-```
+### `[ 01-B ]` Tech Stack
 
----
-## <span style="color: #00FFFF;">[STATS]</span> SYSTEM PERFORMANCE
+**◈ LANGUAGES**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RDXFGXY1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&show_icons=true&hide_title=false&rank_icon=github" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RDXFGXY1&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="400" />
-</p>
+![C Sharp](https://img.shields.io/badge/C%23-202a20?style=flat-square&logo=dotnet&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-202a20?style=flat-square&logo=python&logoColor=ffd43b)
+![JavaScript](https://img.shields.io/badge/JavaScript-202a20?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-202a20?style=flat-square&logo=typescript&logoColor=7aa7d9)
+![Lua](https://img.shields.io/badge/Lua-202a20?style=flat-square&logo=lua&logoColor=8fa8ff)
+![HTML5](https://img.shields.io/badge/HTML5-202a20?style=flat-square&logo=html5&logoColor=e76f51)
+![CSS3](https://img.shields.io/badge/CSS3-202a20?style=flat-square&logo=css3&logoColor=5b9bd5)
 
----
+**◈ FRAMEWORKS & DATA**
 
-## <span style="color: #FFFF00;">[NETWORK]</span> CONNECTION POINTS
+![Next.js](https://img.shields.io/badge/Next.js-111611?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111611?style=flat-square&logo=nodedotjs&logoColor=83b96b)
+![Firebase](https://img.shields.io/badge/Firebase-111611?style=flat-square&logo=firebase&logoColor=ffca28)
+![MySQL](https://img.shields.io/badge/MySQL-111611?style=flat-square&logo=mysql&logoColor=60a8c4)
+![SQLite](https://img.shields.io/badge/SQLite-111611?style=flat-square&logo=sqlite&logoColor=5ca4ce)
 
-<p align="center">
-  <a href="https://discord.gg/aFvUxKejw4">
-    <img src="https://img.shields.io/badge/DISCORD-aFvUxKejw4-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:nullstudio.dev@proton.me">
-    <img src="https://img.shields.io/badge/EMAIL-nullstudio.dev@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/RDXFGXY1">
-    <img src="https://img.shields.io/badge/GITHUB-RDXFGXY1-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+**◈ PLATFORMS & TOOLS**
 
----
+![AWS](https://img.shields.io/badge/AWS-111611?style=flat-square&logo=amazonwebservices&logoColor=d9a441)
+![Vercel](https://img.shields.io/badge/Vercel-111611?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111611?style=flat-square&logo=netlify&logoColor=46d4c5)
+![Git](https://img.shields.io/badge/Git-111611?style=flat-square&logo=git&logoColor=f05032)
+![Godot](https://img.shields.io/badge/Godot-111611?style=flat-square&logo=godotengine&logoColor=7dc4e4)
+![Unity](https://img.shields.io/badge/Unity-111611?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-111611?style=flat-square&logo=unrealengine&logoColor=white)
 
-## <span style="color: #FF6B00;">[QUERY]</span> SYSTEM PHILOSOPHY
+</td>
+</tr>
+</table>
 
-<blockquote style="color: #00FF41; border-left: 3px solid #00FF41; padding-left: 15px;">
-> "Code isn't just instructions for machines—it's poetry for problem-solving.
-> Every line should either solve a problem or inspire a solution."
-> — RDXFGXY1
-</blockquote>
+<div align="center">
 
----
+<samp>PROFILE SIGNAL // STABLE　·　WORKFLOW // ITERATIVE　·　QUALITY // PRIORITY</samp>
 
-## <span style="color: #FF00FF;">[STATUS]</span> CURRENT OPERATIONS
+</div>
 
-```js
-$ [TASK] Developing next-generation web applications
-$ [SECURITY] Enhancing security protocols
-$ [INNOVATION] Creating immersive gaming experiences
-$ [RESEARCH] Exploring AI integration
-```
+## ◢ DASHBOARD 02 // DEVELOPMENT OVERVIEW ◣
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66735f,50:d9a441,100:66735f" width="100%" alt="Dashboard divider" />
 
-## <span style="color: #FFFF00;">[SUPPORT]</span> RESOURCE ALLOCATION
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://paypal.me/ayoubzel">
-    <img src="https://img.shields.io/badge/PAYPAL-ayoubzel-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-  <a href="https://github.com/sponsors/RDXFGXY1">
-    <img src="https://img.shields.io/badge/GITHUB_SPONSORS-RDXFGXY1-181717?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
-  </a>
-  <a href="https://patreon.com/NullStudio001">
-    <img src="https://img.shields.io/badge/PATREON-NullStudio001-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-  <a href="https://opencollective.com/rdxfgxy1">
-    <img src="https://img.shields.io/badge/OPEN_COLLECTIVE-rdxfgxy1-2979ff?style=for-the-badge&logo=opencollective&logoColor=white" alt="Open Collective">
-  </a>
-  <a href="https://ko-fi.com/kyrosdev">
-    <img src="https://img.shields.io/badge/KO--FI-kyrosdev-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
-  </a>
-  <a href="https://liberapay.com/kyros">
-    <img src="https://img.shields.io/badge/LIBERAPAY-kyros-F6C915?style=for-the-badge&logo=liberapay&logoColor=white" alt="Liberapay">
-  </a>
-</p>
+### `[ 02-A ]` Projects
 
----
+#### [NYX](https://github.com/RDXFGXY1/nyx)
 
-```js
-[SYSTEM] Profile rendering complete
-[CONNECTION] Secure channel established
-[STATUS] Ready for communication
-```
+Local-first new-tab replacement for Brave and Chrome, with bookmarks, translation, local media, customization, and privacy-focused utilities.
 
+`JavaScript` `CSS` `HTML` `Browser Extension`
 
-<span style="color: #00FF41;">[SYSTEM]</span> Profile generated with enhanced security protocols 
+[![Open Nyx](https://img.shields.io/badge/OPEN_REPOSITORY-NYX-d9a441?style=for-the-badge&logo=github&logoColor=111611&labelColor=202a20)](https://github.com/RDXFGXY1/nyx)
+
+#### [ORION HOME SERVICES AI](https://github.com/RDXFGXY1/OrionHomeServices-AI)
+
+AI-assisted home-services platform with multimodal diagnostics, intelligent workflows, contractor coordination, and structured service management.
+
+`TypeScript` `React` `Tailwind CSS` `Gemini`
+
+[![Open Orion](https://img.shields.io/badge/OPEN_REPOSITORY-ORION-d9a441?style=for-the-badge&logo=github&logoColor=111611&labelColor=202a20)](https://github.com/RDXFGXY1/OrionHomeServices-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### `[ 02-B ]` GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rdxfgxy1&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d120f&title_color=d9a441&text_color=c8cec5&icon_color=87957f" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rdxfgxy1&show_icons=true&hide_border=true&rank_icon=github&bg_color=f3f1e9&title_color=8a6115&text_color=263029&icon_color=66735f" />
+  <img width="100%" alt="RDXFGXY1 GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=rdxfgxy1&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d120f&title_color=d9a441&text_color=c8cec5&icon_color=87957f" />
+</picture>
+
+### `[ 02-C ]` Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxfgxy1&layout=compact&hide_border=true&langs_count=8&bg_color=0d120f&title_color=d9a441&text_color=c8cec5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxfgxy1&layout=compact&hide_border=true&langs_count=8&bg_color=f3f1e9&title_color=8a6115&text_color=263029" />
+  <img width="100%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxfgxy1&layout=compact&hide_border=true&langs_count=8&bg_color=0d120f&title_color=d9a441&text_color=c8cec5" />
+</picture>
+
+<sub>Language cards reflect public repository code, not proficiency.</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### `[ 02-D ]` Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rdxfgxy1&bg_color=0d120f&color=c8cec5&line=d9a441&point=87957f&area=true&area_color=66735f&hide_border=true&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rdxfgxy1&bg_color=f3f1e9&color=263029&line=8a6115&point=66735f&area=true&area_color=c6b27c&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" alt="RDXFGXY1 contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rdxfgxy1&bg_color=0d120f&color=c8cec5&line=d9a441&point=87957f&area=true&area_color=66735f&hide_border=true&custom_title=Contribution%20Activity" />
+</picture>
+
+### `[ SUPPORT ]` Support My Work
+
+[![PayPal](https://img.shields.io/badge/PayPal-ayoubzel-66735f?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/ayoubzel)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-RDXFGXY1-66735f?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RDXFGXY1)
+[![Patreon](https://img.shields.io/badge/Patreon-NullStudio001-66735f?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/NullStudio001)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-kyrosdev-66735f?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/kyrosdev)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<samp>◢ ORIGINAL FPS-HUD INSPIRED PROFILE // BUILD CONTINUOUS ◣</samp>
+
+<br /><br />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:202a20,50:d9a441,100:202a20" width="100%" alt="Amber interface bar" />
+
+</div>
