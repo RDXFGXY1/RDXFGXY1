@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/rdxfgxy1-hud-v2.png" width="100%" alt="RDXFGXY1 — full-stack developer and security researcher" />
+<!-- <img src="./assets/rdxfgxy1-hud-v2.png" width="100%" alt="RDXFGXY1 — full-stack developer and security researcher" /> -->
 
 
 ```text
@@ -25,10 +25,10 @@
 
 ```text
 ┌─ IDENTITY ─────────────────────────────┬─ CURRENT STATE ──────────────────────────┐
-│ Full-stack developer                  │ Available for collaboration              │
-│ Security researcher                  │ Building ambitious software              │
-│ Founder & CEO of NullStudio          │ Exploring AI integration                 │
-└───────────────────────────────────────┴───────────────────────────────────────────┘
+│ Full-stack developer                   │ Available for collaboration              │
+│ Security researcher                    │ Building ambitious software              │
+│ Founder & CEO of NullStudio            │ Exploring AI integration                 │
+└────────────────────────────────────────┴──────────────────────────────────────────┘
 ```
 
 <table>
@@ -102,10 +102,10 @@ GAME DEVELOPMENT       ██████████████░░░░░
 
 ```text
 ┌─ PROJECT INDEX ────────────────────────┬─ DEVELOPMENT SIGNAL ─────────────────────┐
-│ 01  NYX                              │ Local-first tools                         │
-│ 02  ORION HOME SERVICES AI           │ Intelligent applications                 │
-│ 03  NULLSTUDIO                       │ Bots, games, and next-gen tools           │
-└───────────────────────────────────────┴───────────────────────────────────────────┘
+│ 01  NYX                                │ Local-first tools                        │
+│ 02  ORION HOME SERVICES AI             │ Intelligent applications                 │
+│ 03  NULLSTUDIO                         │ Bots, games, and next-gen tools          │
+└────────────────────────────────────────┴──────────────────────────────────────────┘
 ```
 
 <table>
@@ -182,7 +182,7 @@ An AI-assisted home-services platform built around intelligent workflows and mul
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────╮
-│  BUILD USEFUL THINGS  //  KEEP LEARNING  //  IMPROVE EVERY RELEASE  │
+│  BUILD USEFUL THINGS  //  KEEP LEARNING  //  IMPROVE EVERY RELEASE   │
 ╰──────────────────────────────────────────────────────────────────────╯
 ```
 
